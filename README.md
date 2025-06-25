@@ -33,9 +33,75 @@ The system detects specific hand landmarks using **MediaPipe**, interprets gestu
 ## 🚀 Installation
 
 ### 1. Clone this repository:
+
 ```bash
 git clone https://github.com/its-tanwi/gesturecontrolledPresentations.git
 cd gesturecontrolledPresentations
+```
+
+### 2. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Run the application:
+
+```bash
+python GesturePresentationControl.py
+```
+# 📌 Requirements
+
+- Python 3.7+
+- Webcam (laptop camera or smartphone via DroidCam)
+- Python Libraries:
+  - `opencv-python`
+  - `mediapipe`
+  - `pyautogui`
+  - `numpy`
+
+> ✅ All dependencies are listed in `requirements.txt`
+
+---
+
+## 🧰 Target Audience
+
+- 🎙️ **Presenters and Educators** for smooth slide control
+- 🤖 **Tech Enthusiasts** exploring gesture interfaces
+- 🧠 **Accessibility Advocates** building inclusive tools
+- 💻 **Developers and Researchers** working on Human-Computer Interaction
+
+---
+
+## 💡 Commercial Potential
+
+- ✋ **Touchless Interfaces**: Future-ready HCI design
+- 🎮 **Gaming Integration**: Immersive, motion-based control
+- 🧑‍🦼 **Assistive Technology**: Helps users with mobility challenges
+- 🧑‍🏫 **Corporate Presentation Tools**: Hands-free control in meetings
+
+---
+
+## 👩‍💻 Author
+
+**Tanwi Tejeswani**  
+📫 [tanwitejeswani@gmail.com](mailto:tanwitejeswani@gmail.com)  
+🔗 [GitHub](https://github.com/its-tanwi)  
+🔗 [LinkedIn](https://www.linkedin.com/in/tanwi-tejeswani-73a456301/)
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute it.
+
+---
+
+## 🌟 Like This Project?
+
+If you found this project useful or inspiring,  
+**don’t forget to give it a ⭐ on GitHub!**
 
 
 
