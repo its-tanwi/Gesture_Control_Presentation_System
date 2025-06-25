@@ -37,29 +37,6 @@ The system detects specific hand landmarks using **MediaPipe**, interprets gestu
 git clone https://github.com/its-tanwi/gesturecontrolledPresentations.git
 cd gesturecontrolledPresentations
 
----
-
-### 2. Install dependencies:
-```bash
-pip install -r requirements.txt
-
----
-
-### 3. Run the application:
-```bash
-python GesturePresentationControl.py
-
----
-
-## 🧰 Target Audience
-🎙️ Presenters and Educators looking for seamless slide navigation
-
-🤖 Tech Enthusiasts and Developers interested in gesture recognition
-
-🧠 Accessibility Advocates building inclusive interfaces
-
-🎮 Gamers and Researchers exploring HCI or hands-free control systems
-
 
 
 
