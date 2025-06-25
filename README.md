@@ -35,8 +35,8 @@ The system detects specific hand landmarks using **MediaPipe**, interprets gestu
 ### 1. Clone this repository:
 
 ```bash
-git clone https://github.com/its-tanwi/gesturecontrolledPresentations.git
-cd gesturecontrolledPresentations
+git clone https://github.com/its-tanwi/Gesture_Control_Presentation_System.git
+cd Gesture_Control_Presentation_System
 ```
 
 ### 2. Install dependencies:
